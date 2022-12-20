@@ -1,0 +1,17 @@
+D:\Assignments\RWClass_Lib\RWClass_Lib\bin\Release\net5.0\RWClass_Lib.deps.json
+D:\Assignments\RWClass_Lib\RWClass_Lib\bin\Release\net5.0\RWClass_Lib.dll
+D:\Assignments\RWClass_Lib\RWClass_Lib\bin\Release\net5.0\RWClass_Lib.pdb
+D:\Assignments\RWClass_Lib\RWClass_Lib\bin\Release\net5.0\Interface_Lib.dll
+D:\Assignments\RWClass_Lib\RWClass_Lib\obj\Release\net5.0\RWClass_Lib.csproj.AssemblyReference.cache
+D:\Assignments\RWClass_Lib\RWClass_Lib\obj\Release\net5.0\RWClass_Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignments\RWClass_Lib\RWClass_Lib\obj\Release\net5.0\RWClass_Lib.AssemblyInfoInputs.cache
+D:\Assignments\RWClass_Lib\RWClass_Lib\obj\Release\net5.0\RWClass_Lib.AssemblyInfo.cs
+D:\Assignments\RWClass_Lib\RWClass_Lib\obj\Release\net5.0\RWClass_Lib.csproj.CoreCompileInputs.cache
+D:\Assignments\RWClass_Lib\RWClass_Lib\obj\Release\net5.0\RWClass_Lib.csproj.CopyComplete
+D:\Assignments\RWClass_Lib\RWClass_Lib\obj\Release\net5.0\RWClass_Lib.dll
+D:\Assignments\RWClass_Lib\RWClass_Lib\obj\Release\net5.0\refint\RWClass_Lib.dll
+D:\Assignments\RWClass_Lib\RWClass_Lib\obj\Release\net5.0\RWClass_Lib.pdb
+D:\Assignments\RWClass_Lib\RWClass_Lib\obj\Release\net5.0\ref\RWClass_Lib.dll
+D:\Instrument Management System\Release\net5.0\RWClass_Lib.deps.json
+D:\Instrument Management System\Release\net5.0\RWClass_Lib.dll
+D:\Instrument Management System\Release\net5.0\RWClass_Lib.pdb

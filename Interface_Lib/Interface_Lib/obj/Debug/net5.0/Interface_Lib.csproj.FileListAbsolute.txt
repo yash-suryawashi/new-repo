@@ -1,0 +1,12 @@
+D:\Assignments\Interface_Lib\Interface_Lib\bin\Debug\net5.0\Interface_Lib.deps.json
+D:\Assignments\Interface_Lib\Interface_Lib\bin\Debug\net5.0\Interface_Lib.dll
+D:\Assignments\Interface_Lib\Interface_Lib\bin\Debug\net5.0\Interface_Lib.pdb
+D:\Assignments\Interface_Lib\Interface_Lib\obj\Debug\net5.0\Interface_Lib.csproj.AssemblyReference.cache
+D:\Assignments\Interface_Lib\Interface_Lib\obj\Debug\net5.0\Interface_Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignments\Interface_Lib\Interface_Lib\obj\Debug\net5.0\Interface_Lib.AssemblyInfoInputs.cache
+D:\Assignments\Interface_Lib\Interface_Lib\obj\Debug\net5.0\Interface_Lib.AssemblyInfo.cs
+D:\Assignments\Interface_Lib\Interface_Lib\obj\Debug\net5.0\Interface_Lib.csproj.CoreCompileInputs.cache
+D:\Assignments\Interface_Lib\Interface_Lib\obj\Debug\net5.0\Interface_Lib.dll
+D:\Assignments\Interface_Lib\Interface_Lib\obj\Debug\net5.0\refint\Interface_Lib.dll
+D:\Assignments\Interface_Lib\Interface_Lib\obj\Debug\net5.0\Interface_Lib.pdb
+D:\Assignments\Interface_Lib\Interface_Lib\obj\Debug\net5.0\ref\Interface_Lib.dll

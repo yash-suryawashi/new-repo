@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WPF_IMS/1.0.0": {
+        "dependencies": {
+          "Interface_Lib": "1.0.0.0",
+          "RWClass_Lib": "1.0.0.0"
+        },
+        "runtime": {
+          "WPF_IMS.dll": {}
+        }
+      },
+      "Interface_Lib/1.0.0.0": {
+        "runtime": {
+          "Interface_Lib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "RWClass_Lib/1.0.0.0": {
+        "runtime": {
+          "RWClass_Lib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WPF_IMS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interface_Lib/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RWClass_Lib/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

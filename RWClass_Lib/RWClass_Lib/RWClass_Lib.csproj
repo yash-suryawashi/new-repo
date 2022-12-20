@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <BaseOutputPath>D:\Instrument Management System</BaseOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Interface_Lib">
+      <HintPath>..\..\..\Instrument Management System\Release\net5.0\Interface_Lib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

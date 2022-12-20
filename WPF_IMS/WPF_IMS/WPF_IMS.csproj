@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <BaseOutputPath>D:\WPF_IMS</BaseOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Interface_Lib">
+      <HintPath>..\..\..\Instrument Management System\Release\net5.0\Interface_Lib.dll</HintPath>
+    </Reference>
+    <Reference Include="RWClass_Lib">
+      <HintPath>..\..\..\Instrument Management System\Release\net5.0\RWClass_Lib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
